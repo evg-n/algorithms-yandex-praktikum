@@ -32,3 +32,24 @@ instructor first. That's how you develop the ability to solve the problems indep
 * [Final task B: Simple calculator](sprint_2/final_b_simple_calculator.py)
 
 ## Sprint 3
+
+* [Task A: Brackets Generator](sprint_3/a_brackets_generator.py)
+* [Task B: Phone Digits Combinations](sprint_3/b_phone_digits_combinations.py)
+* [Task C: Subsequence](sprint_3/c_subsequence.py)
+* [Task D: Cookies](sprint_3/d_cookies.py)
+* [Task E: Buying Houses](sprint_3/e_buying_houses.py)
+* [Task F: Max Triangle Perimeter](sprint_3/f_max_triangle_perimeter.py)
+* [Task G: Count Sort](sprint_3/g_count_sort.py)
+* [Task H: Max Possible Number](sprint_3/h_max_possible_number.py)
+* [Task I: Conference lovers](sprint_3/i_conference_lovers.py)
+* [Task J: Bubblesort](sprint_3/j_bubblesort.py)
+* [Task K: Mergesort](sprint_3/k_merge_sort.py)
+* [Task L: Two bicycles](sprint_3/l_two_bicycles.py)
+* [Task M: Golden Median](sprint_3/m_golden_median.py)
+* [Task N: Intersected Intervals](sprint_3/n_intersected_intervals.py)
+* [Task O: Kth difference](sprint_3/o_kth_difference.py)
+* [Task P: Partial Sort](sprint_3/p_partial_sort.py)
+* [Final task A: Broken Array Search](sprint_3/final_a_broken_array_search.py)
+* [Final task B: Effective Quicksort](sprint_3/final_b_effective_quicksort.py)
+
+## Sprint 4
