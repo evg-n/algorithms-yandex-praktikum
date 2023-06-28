@@ -95,4 +95,18 @@ instructor first. That's how you develop the ability to solve the problems indep
 * [Final task A: Max spanning tree](sprint_6/final_a_max_spanning_tree.py)
 * [Final task B: Optimal railroad](sprint_6/final_b_optimal_railroad.py)
 
-## Sprint 7:
+## Sprint 7: Greedy algorithms and dynamic programming.
+
+* [Task A: Exchange](sprint_7/a_exchange.py)
+* [Task B: Timetable](sprint_7/b_timetable.py)
+* [Task C: Gold fever](sprint_7/c_gold_fever.py)
+* [Task F: Stairs jumping](sprint_7/f_stairs_jumping.py)
+* [Task H: Flowers field](sprint_7/h_flowers_field.py)
+* [Task I: Flowers field path](sprint_7/i_flowers_field_path.py)
+* [Task K: Horoscopes](sprint_7/k_horoscopes.py)
+* [Task L: Leprecon gold](sprint_7/l_leprecon_gold.py)
+* [Task M: Backpack](sprint_7/m_backpack.py)
+* [Final task A: Edit distance](sprint_7/final_a_edit_distance.py)
+* [Final task B: Two sums partition](sprint_7/final_b_two_sums_partition.py)
+
+## Sprint 8: 
