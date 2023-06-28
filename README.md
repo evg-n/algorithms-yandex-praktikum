@@ -109,4 +109,16 @@ instructor first. That's how you develop the ability to solve the problems indep
 * [Final task A: Edit distance](sprint_7/final_a_edit_distance.py)
 * [Final task B: Two sums partition](sprint_7/final_b_two_sums_partition.py)
 
-## Sprint 8: 
+## Sprint 8: Strings.
+
+* [Task A: String reverse](sprint_8/a_string_reverse.py)
+* [Task B: Border control](sprint_8/b_border_control.py)
+* [Task E: String insertion](sprint_8/e_string_insertion.py)
+* [Task G: Shift search](sprint_8/g_shift_search.py)
+* [Task H: Global replace](sprint_8/h_global_replace.py)
+* [Task J: Camel case](sprint_8/j_camel_case.py)
+* [Task K: Compare two strings](sprint_8/k_compare_two_strings.py)
+* [Task L: Calculate prefix function](sprint_8/l_calculate_prefix_function.py)
+* [Final task A: Packed prefix](sprint_8/final_a_packed_prefix.py)
+* [Final task B: Cheatsheet](sprint_8/final_b_cheatsheet.py)
+
