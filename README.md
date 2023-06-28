@@ -13,7 +13,7 @@ instructor first. That's how you develop the ability to solve the problems indep
 * [Final task A: Nearest zero](sprint_1/final_a_nearest_zero.py)
 * [Final task B: Juggle](sprint_1/final_b_juggle.py)
 
-## Sprint 2
+## Sprint 2: Core datastructures.
 
 * [Theory: Largest rectangle](sprint_2/largest_rectangle_in_histogram.py)
 * [Task A: Monitoring](sprint_2/a_monitoring.py)
@@ -31,7 +31,7 @@ instructor first. That's how you develop the ability to solve the problems indep
 * [Final task A: Deque](sprint_2/final_a_deque_circle_buffer.py)
 * [Final task B: Simple calculator](sprint_2/final_b_simple_calculator.py)
 
-## Sprint 3
+## Sprint 3: Recursion and sorting.
 
 * [Task A: Brackets Generator](sprint_3/a_brackets_generator.py)
 * [Task B: Phone Digits Combinations](sprint_3/b_phone_digits_combinations.py)
@@ -52,4 +52,19 @@ instructor first. That's how you develop the ability to solve the problems indep
 * [Final task A: Broken Array Search](sprint_3/final_a_broken_array_search.py)
 * [Final task B: Effective Quicksort](sprint_3/final_b_effective_quicksort.py)
 
-## Sprint 4
+## Sprint 4: Hash functions.
+
+* [Task A: Polynomial hash](sprint_4/a_polynomial_hash.py)
+* [Task B: Bruteforce crack bad hash](sprint_4/b_bruteforce_bad_hash.py)
+* [Task C: Prefix hashes](sprint_4/c_prefix_hashes.py)
+* [Task D: Simple hash storage](sprint_4/d_simple_hash_storage.py)
+* [Task E: Longest nonrepeated substring](sprint_4/e_longest_nonrepeated_substring.py)
+* [Task F: Anagram grouping](sprint_4/f_anagram_grouping.py)
+* [Task G: Competition](sprint_4/g_competition.py)
+* [Task H: Strange Comparison](sprint_4/h_strange_comparison.py)
+* [Task L: Common longest sequence](sprint_4/l_common_longest_sequence.py)
+* [Final task A: Search engine](sprint_4/final_a_search_engine.py)
+* [Final task B: Custom hashmap](sprint_4/final_b_custom_hashmap.py)
+
+## Sprint 5: Trees.
+
