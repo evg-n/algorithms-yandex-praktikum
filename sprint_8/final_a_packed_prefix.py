@@ -71,7 +71,9 @@ def main():
     prefix = unwrap(input())
     max_prefix_len = len(prefix)
     for _ in range(n - 1):
-        prefix = get_common_prefix(prefix, unwrap(input()), limit=max_prefix_len)
+        prefix = get_common_prefix(
+            prefix, unwrap(input()), limit=max_prefix_len
+        )
         max_prefix_len = min(max_prefix_len, len(prefix))
 
     print("".join(prefix))

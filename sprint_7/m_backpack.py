@@ -8,7 +8,9 @@ def get_max_mass(n, m, weights, values):
         for j in range(m + 1):
             dp[i][j] = max(
                 dp[i - 1][j],
-                0 if j - weights[i] < 0 else values[i] + dp[i - 1][j - weights[i]],
+                0
+                if j - weights[i] < 0
+                else values[i] + dp[i - 1][j - weights[i]],
             )
 
     results = []

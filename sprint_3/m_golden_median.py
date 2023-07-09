@@ -4,7 +4,9 @@ from typing import List
 
 # O(logN+logM) = O(log(N*M))
 def get_golden_median(a: List[int], b: List[int]) -> int:
-    def solve(k: int, a_left: int, a_right: int, b_left: int, b_right: int) -> int:
+    def solve(
+        k: int, a_left: int, a_right: int, b_left: int, b_right: int
+    ) -> int:
         # base condition
         if a_left > a_right:
             return b[k - a_left]

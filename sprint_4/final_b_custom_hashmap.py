@@ -63,7 +63,10 @@ class CustomHashMap:
     def __find_key(self, key):
         bucket_index = self.__get_bucket(key)
         i = 1
-        while not self.data[bucket_index] is None and self.data[bucket_index].id != key:
+        while (
+            not self.data[bucket_index] is None
+            and self.data[bucket_index].id != key
+        ):
             bucket_index = (bucket_index + i * i) % self.max_size
             i += 1
         return bucket_index

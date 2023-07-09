@@ -3,7 +3,7 @@ from typing import List
 
 
 # Time limit, O(N^3)
-def find_guadriplets(nums: List[int], s: int) -> List[List[int]]:
+def find_quadriplets(nums: List[int], s: int) -> List[List[int]]:
     if len(nums) < 4:
         return []
     nums.sort()
@@ -42,6 +42,8 @@ def find_guadriplets(nums: List[int], s: int) -> List[List[int]]:
     return results
 
 
+# O(N * N) time.
+# O(N * N + K) memory: K - results, N * N - for storing all pairs with indexes.
 def find_quadriplets_memory(nums: List[int], s: int) -> List[List[int]]:
     results = set()
     if len(nums) < 4:
@@ -60,7 +62,9 @@ def find_quadriplets_memory(nums: List[int], s: int) -> List[List[int]]:
                 pairs = two_sums_cache[complement]
                 for k, n in pairs:
                     if k != i and k != j and n != i and n != j:
-                        results.add(tuple(sorted([i_num, j_num, nums[k], nums[n]])))
+                        results.add(
+                            tuple(sorted([i_num, j_num, nums[k], nums[n]]))
+                        )
 
     return sorted(results)
 

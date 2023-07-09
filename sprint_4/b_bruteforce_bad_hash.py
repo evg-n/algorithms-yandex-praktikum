@@ -44,7 +44,9 @@ def brute_force_strings(len=10):
         i %= 1000000
         if i == 0:
             print(
-                "current len ... ", " last generated string is: ", new_generated_string
+                "current len ... ",
+                " last generated string is: ",
+                new_generated_string,
             )
 
 

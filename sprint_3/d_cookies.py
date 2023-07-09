@@ -1,7 +1,9 @@
 from typing import List
 
 
-def get_happy_child_number(cookies: List[int], greedy_coefficients: List[int]) -> int:
+def get_happy_child_number(
+    cookies: List[int], greedy_coefficients: List[int]
+) -> int:
     cookies.sort()
     greedy_coefficients.sort()
 
