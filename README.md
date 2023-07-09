@@ -62,8 +62,9 @@ instructor first. That's how you develop the ability to solve the problems indep
 * [Task F: Anagram grouping](sprint_4/f_anagram_grouping.py)
 * [Task G: Competition](sprint_4/g_competition.py)
 * [Task H: Strange Comparison](sprint_4/h_strange_comparison.py)
-* [Task L: Common longest sequence](sprint_4/l_common_longest_sequence.py)
+* [Task L: Common longest sequence](sprint_4/i_common_longest_sequence.py)
 * [Task J: Find unique quadriplets](sprint_4/j_find_unique_fours.py)
+* [Task L: Find n-length k-occurrences substrings indexes](sprint_4/l_find_substrings_with_k_occurrences.py)
 * [Final task A: Search engine](sprint_4/final_a_search_engine.py)
 * [Final task B: Custom hashmap](sprint_4/final_b_custom_hashmap.py)
 
