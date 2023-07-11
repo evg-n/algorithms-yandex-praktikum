@@ -73,6 +73,7 @@ instructor first. That's how you develop the ability to solve the problems indep
 
 * [Task A: Max element in BST](sprint_5/a_bst_max_element.py)
 * [Task B: Is balanced BST](sprint_5/b_bst_is_balanced.py)
+* [Task C: Check if tree is anagramm](sprint_5/c_anagramm_tree.py)
 * [Task E: Check is valid BST](sprint_5/e_bst_check_validity.py)
 * [Task F: Max height BST](sprint_5/f_bst_max_height.py)
 * [Task I: Unique BST](sprint_5/i_bst_unique.py)
