@@ -77,11 +77,13 @@ instructor first. That's how you develop the ability to solve the problems indep
 * [Task E: Check is valid BST](sprint_5/e_bst_check_validity.py)
 * [Task F: Max height BST](sprint_5/f_bst_max_height.py)
 * [Task G: Max-sum path in a tree](sprint_5/g_tree_max_sum_path.py)
+* [Task H: Numeric pathways sum](sprint_5/h_numeric_pathways.py)
 * [Task I: Unique BST](sprint_5/i_bst_unique.py)
 * [Task J: Insert node in BST](sprint_5/j_bst_insert_node.py)
 * [Task K: Find elements from range in BST](sprint_5/k_bst_find_elements_from_range.py)
 * [Task L: Heap sift down](sprint_5/l_heap_sift_down.py)
 * [Task M: Heap sift up](sprint_5/m_heap_sift_up.py)
+* [Task N: Split BST](sprint_5/n_split_bst.py)
 * [Final task A: Heap sort](sprint_5/final_a_heap_sort.py)
 * [Final task B: Remove node in BST](sprint_5/final_b_bst_remove_node.py)
 

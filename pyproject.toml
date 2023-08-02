@@ -4,7 +4,6 @@ version = "0.1.0"
 description = ""
 authors = ["Evgenii Potapov <eugenx03@gmail.com>"]
 readme = "README.md"
-packages = [{include = "yandex_praktikum"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
