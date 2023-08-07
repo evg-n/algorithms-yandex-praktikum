@@ -99,6 +99,7 @@ instructor first. That's how you develop the ability to solve the problems indep
 * [Task H: Timing DFS](sprint_6/h_timing_dfs.py)
 * [Task J: Topological sort](sprint_6/j_topological_sort.py)
 * [Task K: Dijkstra](sprint_6/k_dijkstra.py)
+* [Task N: Full graph checking](sprint_6/n_full_graph.py)
 * [Final task A: Max spanning tree](sprint_6/final_a_max_spanning_tree.py)
 * [Final task B: Optimal railroad](sprint_6/final_b_optimal_railroad.py)
 
