@@ -115,6 +115,7 @@ instructor first. That's how you develop the ability to solve the problems indep
 * [Task G: Cash Machine](sprint_7/g_cash_machine.py)
 * [Task H: Flowers field](sprint_7/h_flowers_field.py)
 * [Task I: Flowers field path](sprint_7/i_flowers_field_path.py)
+* [Task J: Travelling](sprint_7/j_travelling.py)
 * [Task K: Horoscopes](sprint_7/k_horoscopes.py)
 * [Task L: Leprecon gold](sprint_7/l_leprecon_gold.py)
 * [Task M: Backpack](sprint_7/m_backpack.py)
