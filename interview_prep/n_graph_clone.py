@@ -17,8 +17,6 @@ def cloneGraph(node) -> Node:
     materialized = {node: c_node}
     while queue:
         vertice, c_vertice = queue.pop()
-        # if vertice in visited:
-        # continue
         visited[vertice] = True
 
         for n in vertice.neighbours:

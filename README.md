@@ -119,6 +119,8 @@ instructor first. That's how you develop the ability to solve the problems indep
 * [Task K: Horoscopes](sprint_7/k_horoscopes.py)
 * [Task L: Leprecon gold](sprint_7/l_leprecon_gold.py)
 * [Task M: Backpack](sprint_7/m_backpack.py)
+* [Task N: Restaurant coupons](sprint_7/n_restaurant_coupons.py)
+* [Task O: Path count](sprint_7/o_path_count.py)
 * [Final task A: Edit distance](sprint_7/final_a_edit_distance.py)
 * [Final task B: Two sums partition](sprint_7/final_b_two_sums_partition.py)
 
@@ -135,3 +137,8 @@ instructor first. That's how you develop the ability to solve the problems indep
 * [Final task A: Packed prefix](sprint_8/final_a_packed_prefix.py)
 * [Final task B: Cheatsheet](sprint_8/final_b_cheatsheet.py)
 
+## Sample Interview Problems
+
+* [Task A: Card counter](interview_prep/a_card_counter.py)
+* [Task B: Status 200](interview_prep/b_status_200.py)
+* [Task C: Matrix resurrection](interview_prep/c_matrix_resurrection.py)
