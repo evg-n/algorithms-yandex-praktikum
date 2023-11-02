@@ -1,4 +1,4 @@
-# Yandex-Praktikum
+# Yandex-Praktikum Algorithms Course
 
 Solutions to the algorithms course exercises
 
@@ -142,3 +142,14 @@ instructor first. That's how you develop the ability to solve the problems indep
 * [Task A: Card counter](interview_prep/a_card_counter.py)
 * [Task B: Status 200](interview_prep/b_status_200.py)
 * [Task C: Matrix resurrection](interview_prep/c_matrix_resurrection.py)
+* [Task D: Roman Converter](interview_prep/d_roman_converter.py)
+* [Task E: Good Strings](interview_prep/e_good_strings.py)
+* [Task F: Tree Paths](interview_prep/f_tree_paths.py)
+* [Task G: Sisyphus](interview_prep/g_sisyphus.py)
+* [Task H: Partial reverse](interview_prep/h_partial_reverse.py)
+* [Task I: Queens](interview_prep/i_queens.py)
+* [Task J: Pattern Break](interview_prep/j_pattern_break.py)
+* [Task K: Intervals intersection](interview_prep/k_intervals_intersections.py)
+* [Task L: Historical array](interview_prep/l_historical_array.py)
+* [Task M: Graph clone](interview_prep/m_graph_clone.py)
+* [Task L: Monopoly plus](interview_prep/n_monopoly_plus.py)
