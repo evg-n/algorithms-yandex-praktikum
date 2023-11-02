@@ -152,4 +152,5 @@ instructor first. That's how you develop the ability to solve the problems indep
 * [Task K: Intervals intersection](interview_prep/k_intervals_intersections.py)
 * [Task L: Historical array](interview_prep/l_historical_array.py)
 * [Task M: Graph clone](interview_prep/m_graph_clone.py)
-* [Task L: Monopoly plus](interview_prep/n_monopoly_plus.py)
+* [Task N: Monopoly plus](interview_prep/n_monopoly_plus.py)
+* [Task O: Tree border](interview_prep/o_tree_border.py)
