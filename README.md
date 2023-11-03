@@ -1,4 +1,5 @@
-# Yandex-Praktikum Algorithms Course
+# Yandex Praktikum Algorithms Course
+# Яндекс практикум. Курс «Алгоритмы и структуры данных»
 
 Solutions to the algorithms course exercises
 
@@ -13,7 +14,7 @@ instructor first. That's how you develop the ability to solve the problems indep
 * [Final task A: Nearest zero](sprint_1/final_a_nearest_zero.py)
 * [Final task B: Juggle](sprint_1/final_b_juggle.py)
 
-## Sprint 2: Core datastructures.
+## Sprint 2: Core data structures.
 
 * [Theory: Largest rectangle](sprint_2/largest_rectangle_in_histogram.py)
 * [Task A: Monitoring](sprint_2/a_monitoring.py)
@@ -154,3 +155,5 @@ instructor first. That's how you develop the ability to solve the problems indep
 * [Task M: Graph clone](interview_prep/m_graph_clone.py)
 * [Task N: Monopoly plus](interview_prep/n_monopoly_plus.py)
 * [Task O: Tree border](interview_prep/o_tree_border.py)
+* [Task P: On the same line](interview_prep/p_on_the_same_line.py)
+* [Task Q: Mark and Pasha](interview_prep/q_mark_and_pasha.py)
