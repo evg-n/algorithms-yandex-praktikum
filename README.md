@@ -1,5 +1,5 @@
 # Yandex Praktikum Algorithms Course
-# Яндекс практикум. Курс «Алгоритмы и структуры данных»
+## Курс «Алгоритмы и структуры данных»
 
 Solutions to the algorithms course exercises
 
@@ -157,3 +157,6 @@ instructor first. That's how you develop the ability to solve the problems indep
 * [Task O: Tree border](interview_prep/o_tree_border.py)
 * [Task P: On the same line](interview_prep/p_on_the_same_line.py)
 * [Task Q: Mark and Pasha](interview_prep/q_mark_and_pasha.py)
+* [Task R: IPv4 and IPv6 validation](interview_prep/r_ip_v4_v6_validation.py)
+* [Task S: Max XOR](interview_prep/s_xor_task.py)
+* [Task T: Brackets revisited](interview_prep/t_brackets_revisited.py)
