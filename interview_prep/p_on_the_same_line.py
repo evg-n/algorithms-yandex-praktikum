@@ -1,6 +1,3 @@
-# import fractions
-
-
 def is_on_the_same_line(points):
     points = list(points)
     if len(points) < 2:
@@ -9,23 +6,10 @@ def is_on_the_same_line(points):
     ax, ay = points[0]
     bx, by = points[1]
 
-    i = 1
-    if ax == bx:
-        while i < len(points):
-            if ax != points[i][0]:
-                return False
-            i += 1
-        return True
-
-    k = (ay - by) / (ax - bx)
-    b = ay - k * ax
-
-    # i += 1
-    while i < len(points):
+    for i in range(2, len(points)):
         cur_x, cur_y = points[i]
-        if cur_y != cur_x * k + b and abs(cur_y - cur_x * k + b) > 0.01:
+        if (by - ay) * (cur_x - bx) != (bx - ax) * (cur_y - by):
             return False
-        i += 1
 
     return True
 

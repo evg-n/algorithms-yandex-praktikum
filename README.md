@@ -129,9 +129,13 @@ instructor first. That's how you develop the ability to solve the problems indep
 
 * [Task A: String reverse](sprint_8/a_string_reverse.py)
 * [Task B: Border control](sprint_8/b_border_control.py)
+* [Task C: Longest palindrome](sprint_8/c_longest_palindrome.py)
+* [Task D: Common Prefix](sprint_8/d_common_prefix.py)
 * [Task E: String insertion](sprint_8/e_string_insertion.py)
+* [Task F: Frequent word](sprint_8/f_frequent_word.py)
 * [Task G: Shift search](sprint_8/g_shift_search.py)
 * [Task H: Global replace](sprint_8/h_global_replace.py)
+* [Task I: Repeated parts](sprint_8/i_repeated_parts.py)
 * [Task J: Camel case](sprint_8/j_camel_case.py)
 * [Task K: Compare two strings](sprint_8/k_compare_two_strings.py)
 * [Task L: Calculate prefix function](sprint_8/l_calculate_prefix_function.py)
